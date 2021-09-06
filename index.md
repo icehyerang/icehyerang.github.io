@@ -1,19 +1,20 @@
-## 구혜진 이력서
+## 구혜진
 
 ## 소속
 
 이화여자대학교
 
-### 전공
+## 전공
 
-경제학과
+주전공: 경제학과
+복수전공: 인문예술미디어, 기업가정신
+부전공: 심리학
 
-```markdown
-Syntax highlighted code block
+## 좋아하는 것
 
-# Header 1
-## Header 2
-### Header 3
+## 이모티콘으로 나타낸다면
+
+## 지향점
 
 - Bulleted
 - List
