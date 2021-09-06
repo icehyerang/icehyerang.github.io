@@ -1,12 +1,12 @@
 ## 구혜진 이력서
 
-안녕하세요, 반갑습니다. 
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### 소속
+## 소속
 
 이화여자대학교
+
+### 전공
+
+경제학과
 
 ```markdown
 Syntax highlighted code block
